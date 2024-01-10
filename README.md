@@ -74,7 +74,7 @@ Or install it yourself as:
 ## File Structure Overview
 
 ```bash
-sleek
+
 ├── _includes	               # theme includes
 ├── _js	                       # javascript files (by default jquery will be included with the scripts inside)
 ├── _layouts                   # theme layouts (see below for details)
