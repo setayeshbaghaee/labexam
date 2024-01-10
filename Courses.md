@@ -1,6 +1,5 @@
 ---
-layout: single
-author_profile: true
+layout: page
 permalink: /courses/
 title: Courses
 tags: [Studying, courses]
