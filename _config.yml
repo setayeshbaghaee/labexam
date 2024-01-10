@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}Courses
   - {name: 'Contact', link: '/contact'}
-  - {name: 'Academic Calendar', link: '/Academic Calendar'}
+  - {name: 'Academic Calendar', link: 'http://www.iust.ac.ir/files/education/files/_%D9%85%D8%B5%D9%88%D8%A8_%D8%AA%D8%B1%D9%85__4021_-_%D8%A7%D8%B9%D9%85%D8%A7%D9%84_%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA_24_%D9%85%D8%B1%D8%AF%D8%A7%D8%AF_1402_2(1).pdf'}
   - {name: 'Courses', link: '/Courses'}
 
 
