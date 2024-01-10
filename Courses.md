@@ -8,9 +8,9 @@ comments: false
 ---
 
 
-|           | **Current**                    |
+|    |      |                                |
 |----|------|--------------------------------|
-|1402_1|19  | Computer Programming Fundamentals      |
+|1402_1|19  | Computer Programming Fundamentals|
 |----|------|--------------------------------|
 |1402_1|18  | Calculse 1
 |----|------|--------------------------------|
